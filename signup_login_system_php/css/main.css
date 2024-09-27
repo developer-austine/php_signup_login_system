@@ -1,0 +1,38 @@
+h3 {
+    font-size: 25px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: #000;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 55px;
+}
+
+form {
+    justify-content: center;
+    align-items: center;
+    display: block;
+    /* margin-left: 50%; */
+}
+
+input {
+    border-radius: 8px;
+    height: 25px;
+    width: 200px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin-left: 750px;
+}
+
+button {
+    border-radius: 8px;
+    padding: 7px 5px;
+    border: none;
+    margin-top: 5px;
+    background-color: #ffa800;
+    display: block;
+    margin-left: 800px;
+}
